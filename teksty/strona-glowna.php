@@ -1,0 +1,4 @@
+<?php
+$naglowek = "Strona startowa";
+$opis = '<br>  <p><img src="http://localhost/szybka-strona/images/opis-glowna.jpg" width="370">Szybka strona to skrypt napisany w ramach doskonalenia własnego warsztatu programowania oraz projektowania w nowych standardach HTML5 oraz CSS3.</p><p>Skrypt tej strony internetowej skierowany jest do osób początkujących. Aczkolwiek już takich, które wiedzą jak skonfigurować kienta FTP i wgrać pliki na serwer.</p><p>Skrypt posiada panel administracyjny dostępny pod adresem<br> http://twoja-domena.pl/administrator. </p><p>Strona ta oparta jest na plikach, dzięki czemu nie musisz znać się na bazach danych. Wystarczy, że skopiujesz pliki na serwer.</p><p>Pobierz plik:&nbsp;<a href="http://katet.eu/szybka-strona/pobierz/index.php" title="Strony internetowe">szybka-strona.zip</a></p>  ';
+?>

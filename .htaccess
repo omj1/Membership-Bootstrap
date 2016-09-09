@@ -1,0 +1,8 @@
+#Order Allow,Deny 
+Allow from all 
+DirectoryIndex index.php index.html
+Options All -Indexes
+Options FollowSymLinks
+RewriteEngine on
+#php_flag register_globals off
+#test zmiany git
