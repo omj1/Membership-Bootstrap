@@ -1,6 +1,6 @@
 GYMI to dedykowana aplikacja wspomagająca rozliczanie abonamentów m.in. swoje zastosowanie odnajdzie tam gdzie płacone są regularne opłaty np polacany jest klubów typu siłownia, fitness, spa, basen, sal gimnastycznych, muzycznych firm świdczących hosting, wynajem, itp.
 
-GYMI powstał aby wspomagać kontrolę kończących się abonamentów. Informacje przedstawione są w formie listy posegregowanej wg daty. Możliwość wyszukiwania z autozupełnieniem po imieniach i nazwiskach. My ze swej strony wprowadziliśmy kilka wspomagających użytkowanie skryptu elementów. Wykresy dot. sprzedaży.
+GYMI powstał aby wspomagać kontrolę kończących się abonamentów. Informacje przedstawione są w formie listy posegregowanej wg daty. Możliwość wyszukiwania z autozupełnieniem po imieniach i nazwiskach. Wykresy dot. sprzedaży.
 
 Możliwości:
 - wyświetlanie wykresów
