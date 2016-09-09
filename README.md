@@ -4,9 +4,9 @@ dla siłowni, fitness, spa, basenów itp.
 O programie
 GYMI to dedykowany skrypt wspomagający rozliczanie abonamentów dla klubów typu siłownia, fitness, spa, basen, sal gimnastycznych, muzycznych, itp.
 
-GYMI powstał w wyniku zapotrzebowania naszego klienta na system, który wspomoże kontrolę kończących się karnetów. Klient chciał mieć informacje w formie listy posegregowanej wg daty, oraz możliwość wyszukiwania z autozupełnieniem po imieniach i nazwiskach. My ze swej strony wprowadziliśmy kilka wspomagających użytkowanie skryptu elementów.
+GYMI powstał aby wspomagać kontrolę kończących się abonamentów. Informacje przedstawione są w formie listy posegregowanej wg daty. Możliwość wyszukiwania z autozupełnieniem po imieniach i nazwiskach. My ze swej strony wprowadziliśmy kilka wspomagających użytkowanie skryptu elementów. Wykresy dot. sprzedaży.
 
-Możliwości
+Możliwości:
 - wyświetlanie wykresów
 - predefiniowane statystyki
 - wyświetlanie listy aktywnych abonamentów
